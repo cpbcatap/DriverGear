@@ -4135,6 +4135,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/usijh/Documents/GitHub/DriverGear/PressureSensor/Footprint/PARTserver22025081408224037009405d0b6156e/USB-A-S-S-B-TH.stp"
+			(offset
+				(xyz 3.5 -6 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 -180 180)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "F.Cu")
